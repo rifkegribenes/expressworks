@@ -1,0 +1,23 @@
+{
+  "name": "@rifke/how-to",
+  "version": "1.0.1",
+  "description": "tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "rifkegribenes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rifkegribenes/how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/rifkegribenes/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/rifkegribenes/how-to-npm#readme",
+  "dependencies": {}
+}
